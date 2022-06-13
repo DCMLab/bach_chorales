@@ -307,3 +307,64 @@ Converted from the Capella files contained on the CD-ROM.
 |303 Auf meinen lieben Gott                        |      13|     0|        |          |         |
 |304 Wie schön leuchtet der Morgenstern            |      16|     0|        |          |         |
 |305 O Mensch, bewein dein Sünde groß              |      20|     0|        |          |         |
+|306 Christus, der uns selig macht                 |      17|     0|        |          |         |
+|307 Ach Gott, wie manches Herzeleid               |       9|     0|        |          |         |
+|308 Ein Lämmlein geht und trägt die Schuld        |      19|     0|        |          |         |
+|309 Machs mit mir, Gott, nach deiner Güte         |      10|     0|        |          |         |
+|310 Dank sei Gott in der Höhe                     |      14|     0|        |          |         |
+|311 O Gott, du frommer Gott                       |      17|     0|        |          |         |
+|312 Allein Gott in der Höh sei Ehr                |      12|     0|        |          |         |
+|313 Das alte Jahr vergangen ist                   |      13|     0|        |          |         |
+|314 O Gott, du frommer Gott                       |      14|     0|        |          |         |
+|315 Christus, der ist mein Leben                  |      20|     0|        |          |         |
+|316 Herr, wie du willst, so schicks mit mir       |      14|     0|        |          |         |
+|317 Herr, wie du willst, so schicks mit mir       |      13|     0|        |          |         |
+|318 Sanctus, Sanctus Dominus Deus Sabaoth         |      17|     0|        |          |         |
+|319 Gott sei uns gnädig und barmherzig            |      11|     0|        |          |         |
+|320 Wir Christenleut                              |      12|     0|        |          |         |
+|321 Wenn mein Stündlein vorhanden ist             |      16|     0|        |          |         |
+|322 Wie schön leuchtet der Morgenstern            |      16|     0|        |          |         |
+|323 Jesu meine Freude                             |      13|     0|        |          |         |
+|325 Allein Gott in der Höh sei Ehr                |      12|     0|        |          |         |
+|326 Jesu, nun sei gepreiset                       |      22|     0|        |          |         |
+|327 Liebster Jesu, wir sind hier                  |      10|     0|        |          |         |
+|328 Sei Lob und Ehr dem höchsten Gut              |      12|     0|        |          |         |
+|329 Nun danket alle Gott                          |      14|     0|        |          |         |
+|330 Wo soll ich fliehen hin                       |      13|     0|        |          |         |
+|331 Von Gott will ich nicht lassen                |      17|     0|        |          |         |
+|332 Es woll uns Gott genädig sein                 |      19|     0|        |          |         |
+|334 Es ist das Heil uns kommen her                |      12|     0|        |          |         |
+|335 Wo Gott der Herr nicht bei uns hält           |      12|     0|        |          |         |
+|336 O Gott, du frommer Gott                       |      14|     0|        |          |         |
+|337 Jesus, meine Zuversicht                       |       8|     0|        |          |         |
+|338 Wer nur den lieben Gott läßt walten           |      11|     0|        |          |         |
+|339 Befiehl du deine Wege                         |      14|     0|        |          |         |
+|340 Ich dank dir, lieber Herre                    |      18|     0|        |          |         |
+|341 Lobt Gott, ihr Christen allzugleich           |      11|     0|        |          |         |
+|343 Vom Himmel hoch, da komm ich her              |       9|     0|        |          |         |
+|344 O Haupt voll Blut und Wunden                  |      14|     0|        |          |         |
+|345 Meines Lebens letzte Zeit                     |      15|     0|        |          |         |
+|346 Was Gott tut, das ist wohlgetan               |      12|     0|        |          |         |
+|347 Meinen Jesum laß ich nicht, weil              |      13|     0|        |          |         |
+|348 Ich hab in Gottes Herz und Sinn               |      14|     0|        |          |         |
+|349 Jesu, meiner Seelen Wonne                     |      12|     0|        |          |         |
+|351 Es woll uns Gott genädig sein                 |      18|     0|        |          |         |
+|352 Der Herr ist mein getreuer Hirt               |      12|     0|        |          |         |
+|353 Sei Lob und Ehr dem höchsten Gut              |      12|     0|        |          |         |
+|354 Nun ruhen alle Wälder                         |      13|     0|        |          |         |
+|355 Jesu, meine Freude                            |      13|     0|        |          |         |
+|356 Warum sollt ich mich denn grämen              |      13|     0|        |          |         |
+|357 Meine Seel erhebt den Herren                  |      22|     0|        |          |         |
+|358 Allein zu dir, Herr Jesu Christ               |      22|     0|        |          |         |
+|359 Wir Christenleut                              |      12|     0|        |          |         |
+|360 Du Lebensfürst, Herr Jesu Christ              |      14|     0|        |          |         |
+|361 Es ist gewißlich an der Zeit                  |      12|     0|        |          |         |
+|362 O Welt, sieh hier dein Leben                  |      13|     0|        |          |         |
+|363 Von Gott will ich nicht lassen                |      14|     0|        |          |         |
+|364 Jesu, meiner Seelen Wonne                     |      12|     0|        |          |         |
+|365 O Welt, sieh hier dein Leben                  |      13|     0|        |          |         |
+|366 Befiel du deine Wege                          |      14|     0|        |          |         |
+|367 Hilf, Herr Jesu, laß gelingen                 |      19|     0|        |          |         |
+|368 Jesu, der du meine Seele                      |      12|     0|        |          |         |
+|369 Kommt her zu mir, spricht Gottes Sohn         |      14|     0|        |          |         |
+|370 Christ lag in Todesbanden                     |      14|     0|        |          |         |
