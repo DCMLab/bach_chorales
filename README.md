@@ -1,5 +1,5 @@
-# annotation_workflow_template
+# The Chorales	
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
+Source: Kaiser, U. (2002). Der Viertstimmige Satz. Kantionalsatz und Choralsatz. Bärenreiter, Kassel.
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Converted from the Capella files contained on the CD-ROM.
