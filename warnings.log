@@ -1,0 +1,1660 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 9) ms3.Parse.bach_chorales.001 Aus meines Herzens Grunde -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 9 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+	7   8   8     1/2         0        <NA>              <NA>
+	8   9   9     1/4       1/2        <NA>              <NA>
+	9  10  10     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.002 Ich danke dir, lieber Herre -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.003 Ach Gott, vom Himmel sieh darein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.004 Es ist das Heil uns kommen her -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.005 An Wasserflüssen Babylon -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.006 Nun lob, mein Seel, den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.007 Christus, der ist mein Leben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.009 Ermuntre dich, mein schwacher Geist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.bach_chorales.011 Jesu, nun sei gepreiset -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 9 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{1: Fraction(1, 4), 10: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.011 Jesu, nun sei gepreiset -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.012 Puer natus in Bethlehem -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.013 Allein zu dir, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.014 O Herre Gott, dein göttlich Wort -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.015 Christ lag in Todesbanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.016 Es woll uns Gott genädig sein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.019 Ich hab mein Sach Gott heimgestellt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.020 Ein feste Burg ist unser Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.021 Herzlich tut mich verlangen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.023 Zeuch ein zu deinen Toren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.024 Valet will ich dir geben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.025 Wo soll ich fliehen hin -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.026 O Ewigkeit, du Donnerwort -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.027 Es spricht der Unweisen Mund wohl -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.031 Ach lieben Christen, seid getrost -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.032 Nun danket alle Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.033 Erbarm dich mein, o Herre Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.036 Nun bitten wir den heiligen Geist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.040 Ach Gott und Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.041 Was mein Gott will, das gescheh allzeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.042 Du Friedefürst, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+INCORRECT_VOLTA_MN_WARNING (2, 6) ms3.Parse.bach_chorales.043 Liebster Gott, wenn werd ich sterben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 191) check_measure_numbers():
+	MC 6, the 1st measure of a 2nd volta, should have MN 5, not MN 6.
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.044 Machs mit mir Gott, nach deiner Güt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.045 Vom Himmel hoch, da komm ich her -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.046 Kommt her zu mir, spricht Gottes Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.047 Vater unser im Himmelreich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.049 Mit Fried und Freud ich fahr dahin -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.051 Wenn mein Stündlein vorhanden ist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.053 Gelobet seist du, Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.054 Lobt Gott, ihr Christen allzugleich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.055 Christum wir sollen loben schon -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.056 Herzlich lieb hab ich dich, o Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.057 Wir Christenleut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.060 O Traurigkeit, o Herzeleid -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.061 Ich freue mich in dir -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.062 Nun ruhen alle Wälder -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.064 Was Gott tut, das ist wohlgetan -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.065 Christ unser Herr zum Jordan kam -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.066 Wer nur den lieben Gott läßt walten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.068 Wenn wir in höchsten Nöten sein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.069 Komm, heiliger Geist, Herre Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.070 Gott sei gelobet und gebenedeiet -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.071 Ich ruf zu dir, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.072 Erhalt uns, Herr, bei deinem Wort -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.073 Herr Jesu Christ, du höchstes Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.074 O Haupt voll Blut und Wunden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.075 Das walt mein Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.077 In dich hab ich gehoffet, Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.078 Herzliebster Jesu, was hast du verbrochen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.081 O großer Gott von Macht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.083 Nun bitten wir den Heiligen Geist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.084 O Gott, du frommer Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.085 Wie schön leuchtet der Morgenstern -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.087 O Haupt voll Blut und Wunden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.088 Helft mir Gottes Güte preisen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.089 O Haupt voll Blut und Wunden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.091 Verleih uns Frieden gnädiglich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.092 O Jesu Christ, du höchstes Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.093 Wach auf mein Herz und singe -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.094 Warum betrübst du dich, mein Herz -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.097 Nun bitten wir den Heiligen Geist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.098 O Haupt voll Blut und Wunden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.099 Helft mir Gottes Güte preisen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.100 Ich ruf zu dir, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 5) ms3.Parse.bach_chorales.101 Herr Christ, der ein'ge Gottes Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 5 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{1: Fraction(1, 4), 6: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.101 Herr Christ, der ein'ge Gottes Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.104 Wer nur den lieben Gott läßt walten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.105 Herzliebster Jesu, was hast du verbrochen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 9) ms3.Parse.bach_chorales.107 Herzlich lieb hab ich dich, o Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 9 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	7   8   8     3/4         0        <NA>              <NA>
+	8   9   9     1/4       3/4        <NA>              <NA>
+	9  10  10       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.108 Valet will ich dir geben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.110 Vater unser im Himmelreich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.111 Herzliebster Jesu, was hast du verbrochen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.112 Wer nur den lieben Gott läßt walten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.114 Von Gott will ich nicht lassen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.115 Was mein Gott will, das gescheh allezeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.116 Nun lob, mein Seel, den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.117 Nun ruhen alle Wälder -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.118 In dich hab ich gehoffet, Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.119 Christ unser Herr zum Jordan kam -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.120 Was mein Gott will, das gescheh allezeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.122 Ist Gott mein Schild und Helfersmann -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.123 Helft mir Gottes Güte preisen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.124 Auf, auf mein Herz, und du mein ganzer Sinn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.125 Allein Gott in der Höh sei Ehr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.126 Durch Adams Fall ist ganz verderbt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.127 Dies sind die heilgen zehn Gebot -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.129 Keinen hat Gott verlassen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 8) ms3.Parse.bach_chorales.130 Meine Seele erhebt den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 8 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2):
+	{9: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.136 Herr Jesu Christ, dich zu uns wend -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.140 In allen meinen Taten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.143 In dulci jubilo -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.145 Warum betrübst du dich, mein Herz -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.146 Wer nur den lieben Got läßt walten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.147 Wenn ich in Angst und Not -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.148 Uns ist ein Kindlein heut geborn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.149 Nicht so traurig, nicht so sehr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/2       1/2        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     1/2         0        <NA>              <NA>
+	5   6   6     1/2       1/2        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.154 Der du bist drei in Einigkeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.156 Ach Gott, wie manches Herzeleid -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.157 Wo Gott zum Haus nicht gibt sein Gunst -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.158 Der Tag, der ist so freudenreich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.159 Als der gütige Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.160 Gelobet seist du, Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.162 Das alte Jahr vergangen ist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.163 Für Freuden laßt uns springen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.164 Du großer Schmerzensmann -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.165 O Lamm Gottes, unschuldig -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.166 Es stehn vor Gottes Throne -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.167 Herr Gott, dich loben wir alle -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.168 Heut ist, o Mensch, ein großer Trauertag -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.176 Erstanden ist der heilige Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.177 Ach bleib bei uns, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 8) ms3.Parse.bach_chorales.179 Wachet auf, ruft uns die Stimme -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 8 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{1: Fraction(1, 1), 9: Fraction(1, 4)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 9) ms3.Parse.bach_chorales.179 Wachet auf, ruft uns die Stimme -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 9 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	7   8   8     3/4         0        <NA>              <NA>
+	8   9   9     1/4       3/4        <NA>              <NA>
+	9  10  10       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.180 Als Jesus Christus in der Nacht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.181 Gott hat das Evangelium -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.182 Wär Gott nicht mit uns diese Zeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.183 Nun freut euch, lieben Christen gmein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.184 Christ lag in Todesbanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.185 Nun freut euch, Gottes Kinder all -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.186 Ach Gott, erhör mein Seufzen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.187 Komm, Gott Schöpfer, Heiliger Geist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.189 Herr Jesu Christ, wahr' Mensch und Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.191 Von Gott will ich nicht lassen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.195 Wie schön leuchtet der Morgenstern -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.196 Da der Herr Christ zu Tische saß -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 22) ms3.Parse.bach_chorales.197 Christ ist erstanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 22 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{23: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.197 Christ ist erstanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.199 Hilf, Gott, daß mirs gelinge -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.201 O Mensch, bewein dein Sünde groß -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.204 Wer weiß, wie nahe mir mein Ende -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6, 11, 14, 18, 23, 28, 45, 50) ms3.Parse.bach_chorales.205 Herr Gott, dich loben wir -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6, 11, 14, 18, 23, 28, 45, 50 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       3/4        <NA>              <NA>
+	1    2   2       1         0        <NA>              <NA>
+	4    5   5     3/4         0        <NA>              <NA>
+	5    6   6     1/4       3/4        <NA>              <NA>
+	6    7   7       1         0        <NA>              <NA>
+	9   10  10     3/4         0        <NA>              <NA>
+	10  11  11     1/4       3/4        <NA>              <NA>
+	11  12  12       1         0        <NA>              <NA>
+	12  13  13     3/4         0        <NA>              <NA>
+	13  14  14     1/4       3/4        <NA>              <NA>
+	14  15  15       1         0        <NA>              <NA>
+	16  17  17     3/4         0        <NA>              <NA>
+	17  18  18     1/4       3/4        <NA>              <NA>
+	18  19  19       1         0        <NA>              <NA>
+	21  22  22     3/4         0        <NA>              <NA>
+	22  23  23     1/4       3/4        <NA>              <NA>
+	23  24  24       1         0        <NA>              <NA>
+	26  27  27     3/4         0        <NA>              <NA>
+	27  28  28     1/4       3/4        <NA>              <NA>
+	28  29  29       1         0        <NA>              <NA>
+	43  44  44     3/4         0        <NA>              <NA>
+	44  45  45     1/4       3/4        <NA>              <NA>
+	45  46  46       1         0        <NA>              <NA>
+	48  49  49     3/4         0        <NA>              <NA>
+	49  50  50     1/4       3/4        <NA>              <NA>
+	50  51  51       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.206 So gibst du nun, mein Jesu, gute Nacht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.209 Dir, dir, Jehova, will ich singen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.210 Christe, du Beistand deiner Kreuzgemeinde -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.215 Verleih uns Frieden gnädiglich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 3) ms3.Parse.bach_chorales.218 Laß, o Herr, dein Ohr sich neigen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 3 (timesig 1, act_dur 1/2) is completed by 2 incorrect durations (expected: 1/2):
+	{1: Fraction(1, 1), 4: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 6) ms3.Parse.bach_chorales.218 Laß, o Herr, dein Ohr sich neigen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 6 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2):
+	{7: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.221 Herr, straf mich nicht in deinem Zorn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.223 Ich dank dir, Gott, für deine Wohltat -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.224 Das walt Gott Vater und Gott Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.225 Gott, der du selber bist das Licht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.226 Herr Jesu Christ, du hast bereit' -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.227 Lobet den Herren, denn er ist sehr freundlich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.228 Danket dem Herren, denn er ist sehr freundlich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.229 Ich danke dir, o Gott, in deinem Throne -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.230 Christ, der du bist der helle Tag -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.231 Die Nacht ist kommen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.232 Die Sonn hat sich mit ihrem Glanz gewendet -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.236 O Jesu, du mein Bräutigam -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.240 Nun sich der Tag geendet hat -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.241 Was willst du mich, o meine Seele, kränken -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.242 Wie bist du, Seele, in mir so gar betrübt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.245 Christe, der du bist Tag und Licht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.247 Wenn wir in höchsten Nöten sein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.248 Sei lob und Ehr dem höchsten Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.249 Allein Gott in der Höh sei Ehr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.250 Ein feste Burg ist unser Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.251 Ich bin ja, Herr, in deiner Macht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.bach_chorales.252 Jesu, nun sei gepreist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 9 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{1: Fraction(1, 4), 10: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.252 Jesu, nun sei gepreist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.253 Ach Gott, vom Himmel sieh darein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.255 Was frag ich nach der Welt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.257 Nun laßt uns Gott den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.258 Mein Augen schließ ich jetzt in Gottes Namen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.259 Verleih uns Frieden gnädiglich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/2       1/2        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.260 Es ist gewißlich an der Zeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.261 Christ lag in Todesbanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.262 Ach Gott, vom Himmel sieh darein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.265 Was mein Gott will, das gescheh allzeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.266 Herr Jesu Christ, du höchstes Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.267 Vater unser im Himmelreich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.268 Nun lob, mein Seel, den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.270 Befiehl du deine Wege -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.271 Gib dich zufrieden und sei stille -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.273 Ein feste Burg ist unser Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.275 O Welt, sieh hier dein Leben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.276 Lobt Gott, ihr Christen allzugleich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.277 Herzlieb lieb hab ich dich, o Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.278 Wie schön leuchtet der Morgenstern -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.279 Ach Gott und Herr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.bach_chorales.280 Eins ist not!, ach Herr, dies Eine -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 9 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{10: Fraction(3, 4)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.281 Wo soll ich fliehen hin -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.283bis Herr Jesu Christ, wahr' Mensch und Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.284 Wär Gott nicht mit uns diese Zeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.285 Befiehl du deine Wege -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.287 Gelobet seist du, Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.288 Nun ruhen alle Wälder -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.289 Es ist das Heil uns kommen her -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.290 Was frag ich nach der Welt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.291 Nimm von uns, Herr, du treuer Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.292 Was Gott tut, das ist wohlgetan -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.293 Herr Jesu Christ, du höchstes Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.294 Herr Jesu Christ, mein's Lebens Licht -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.295 Nun lob, mein Seel, den Herren -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.299 Warum betrübst du dich, mein Herz -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.300 Ach lieben Christen, seid getrost -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10) ms3.Parse.bach_chorales.301 Hilf, Gott, daß mirs gelinge -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       1/2        <NA>              <NA>
+	1    2   2     3/4         0        <NA>              <NA>
+	8    9   9     1/2         0        <NA>              <NA>
+	9   10  10     1/4       1/2        <NA>              <NA>
+	10  11  11     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.302 Herr Christ, der ein'ge Gottes Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.303 Auf meinen lieben Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.304 Wie schön leuchtet der Morgenstern -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.305 O Mensch, bewein dein Sünde groß -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.307 Ach Gott, wie manches Herzeleid -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.308 Ein Lämmlein geht und trägt die Schuld -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.309 Machs mit mir, Gott, nach deiner Güte -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.310 Dank sei Gott in der Höhe -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.311 O Gott, du frommer Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.312 Allein Gott in der Höh sei Ehr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.313 Das alte Jahr vergangen ist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.314 O Gott, du frommer Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.315 Christus, der ist mein Leben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       1/2        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.316 Herr, wie du willst, so schicks mit mir -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.320 Wir Christenleut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.321 Wenn mein Stündlein vorhanden ist -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 8) ms3.Parse.bach_chorales.322 Wie schön leuchtet der Morgenstern -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 8 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	6   7   7     3/4         0        <NA>              <NA>
+	7   8   8     1/4       3/4        <NA>              <NA>
+	8   9   9       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.325 Allein Gott in der Höh sei Ehr -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 10, 13, 18) ms3.Parse.bach_chorales.326 Jesu, nun sei gepreiset -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 10, 13, 18 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1     1/4       3/4        <NA>              <NA>
+	1    2   2       1         0        <NA>              <NA>
+	8    9   9     3/4         0        <NA>              <NA>
+	9   10  10     1/4       3/4        <NA>              <NA>
+	10  11  11       1         0        <NA>              <NA>
+	11  12  12     3/4         0        <NA>              <NA>
+	12  13  13     1/4       3/4        <NA>              <NA>
+	13  14  14       1         0        <NA>              <NA>
+	16  17  17     3/4         0        <NA>              <NA>
+	17  18  18     1/4       3/4        <NA>              <NA>
+	18  19  19       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.328 Sei Lob und Ehr dem höchsten Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.329 Nun danket alle Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.330 Wo soll ich fliehen hin -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.331 Von Gott will ich nicht lassen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.332 Es woll uns Gott genädig sein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.334 Es ist das Heil uns kommen her -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.335 Wo Gott der Herr nicht bei uns hält -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.336 O Gott, du frommer Gott -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.338 Wer nur den lieben Gott läßt walten -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.339 Befiehl du deine Wege -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.340 Ich dank dir, lieber Herre -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.341 Lobt Gott, ihr Christen allzugleich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.343 Vom Himmel hoch, da komm ich her -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.344 O Haupt voll Blut und Wunden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.346 Was Gott tut, das ist wohlgetan -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.348 Ich hab in Gottes Herz und Sinn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 7) ms3.Parse.bach_chorales.351 Es woll uns Gott genädig sein -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	5   6   6     3/4         0        <NA>              <NA>
+	6   7   7     1/4       3/4        <NA>              <NA>
+	7   8   8       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.352 Der Herr ist mein getreuer Hirt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.353 Sei Lob und Ehr dem höchsten Gut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.354 Nun ruhen alle Wälder -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 13) ms3.Parse.bach_chorales.358 Allein zu dir, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 13 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2):
+	{14: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 9) ms3.Parse.bach_chorales.358 Allein zu dir, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 9 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	7   8   8     3/4         0        <NA>              <NA>
+	8   9   9     1/4       3/4        <NA>              <NA>
+	9  10  10       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.359 Wir Christenleut -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.360 Du Lebensfürst, Herr Jesu Christ -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.361 Es ist gewißlich an der Zeit -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.362 O Welt, sieh hier dein Leben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.363 Von Gott will ich nicht lassen -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.365 O Welt, sieh hier dein Leben -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.366 Befiel du deine Wege -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_chorales.369 Kommt her zu mir, spricht Gottes Sohn -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 6) ms3.Parse.bach_chorales.370 Christ lag in Todesbanden -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 1, 6 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/4       3/4        <NA>              <NA>
+	1   2   2       1         0        <NA>              <NA>
+	4   5   5     3/4         0        <NA>              <NA>
+	5   6   6     1/4       3/4        <NA>              <NA>
+	6   7   7       1         0        <NA>              <NA>
