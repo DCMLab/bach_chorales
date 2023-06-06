@@ -4,7 +4,7 @@ Source: Kaiser, U. (2002). Der Viertstimmige Satz. Kantionalsatz und Choralsatz.
 
 Converted from the Capella files contained on the CD-ROM.
 
-# Overview
+## Overview
 |                    file_name                     |measures|labels|
 |--------------------------------------------------|-------:|-----:|
 |001 Aus meines Herzens Grunde                     |      23|     0|
@@ -370,4 +370,4 @@ Converted from the Capella files contained on the CD-ROM.
 |370 Christ lag in Todesbanden                     |      14|     0|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
