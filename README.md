@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/bach_chorales?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/502940623.svg)](https://zenodo.org/badge/latestdoi/502940623)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/bach_chorales)
 ![License](https://img.shields.io/badge/License-CC0_1.0-9cf)
 
