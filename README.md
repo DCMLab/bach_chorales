@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/bach_chorales?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/502940623.svg)](https://zenodo.org/badge/latestdoi/502940623)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/bach_chorales)
 ![License](https://img.shields.io/badge/License-CC0_1.0-9cf)
 
@@ -399,4 +399,4 @@ CC0 1.0 Universal ([CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 |370 Christ lag in Todesbanden                     |      14|     0|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

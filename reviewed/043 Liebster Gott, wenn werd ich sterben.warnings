@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCORRECT_VOLTA_MN_WARNING (2, 6) ms3.Parse.bach_chorales.043 Liebster Gott, wenn werd ich sterben
+	MC 6, the 1st measure of a 2nd volta, should have MN 5, not MN 6.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_chorales.043 Liebster Gott, wenn werd ich sterben
+	No metronome mark found in the first measure nor anywhere else in the score.
