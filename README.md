@@ -1,8 +1,37 @@
-# The Chorales	
+![Version](https://img.shields.io/github/v/release/DCMLab/bach_chorales?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/bach_chorales)
+![License](https://img.shields.io/badge/License-CC0_1.0-9cf)
 
-Source: Kaiser, U. (2002). Der Viertstimmige Satz. Kantionalsatz und Choralsatz. Bärenreiter, Kassel.
 
-Converted from the Capella files contained on the CD-ROM.
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/bach_chorales](https://github.com/DCMLab/bach_chorales) and the corresponding
+* documentation page [https://dcmlab.github.io/bach_chorales](https://dcmlab.github.io/bach_chorales)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/bach_chorales/introduction).
+
+# Johann Sebastian Bach – The Chorales
+
+The original Capella files (not included here) were engraved and compiled by [Ulrich Kaiser](https://kaiser-ulrich.de/)
+and published as part of the CD-ROM coming with his book
+
+> Kaiser, U. (2002). Der Vierstimmige Satz. Kantionalsatz und Choralsatz. Bärenreiter, Kassel.
+
+They have been converted to MuseScore 3.6.2 format and parsed using the [ms3](https://ms3.readthedocs.io/) 
+Python library. Unfortunately, the conversion has resulted in many incorrect accidentals and the MuseScore files 
+would require full correction. One way to do so would be by comparing pitch class vectors against those from one of 
+the other available chorale dataset.
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/bach_chorales/releases).
+
+## License
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
+CC0 1.0 Universal ([CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 ## Overview
 |                    file_name                     |measures|labels|
