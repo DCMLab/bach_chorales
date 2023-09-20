@@ -399,4 +399,4 @@ CC0 1.0 Universal ([CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 |370 Christ lag in Todesbanden                     |      14|     0|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
