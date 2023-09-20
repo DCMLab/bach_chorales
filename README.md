@@ -22,7 +22,7 @@ and published as part of the CD-ROM coming with his book
 They have been converted to MuseScore 3.6.2 format and parsed using the [ms3](https://ms3.readthedocs.io/) 
 Python library. Unfortunately, the conversion has resulted in many incorrect accidentals and the MuseScore files 
 would require full correction. One way to do so would be by comparing pitch class vectors against those from one of 
-the other available chorale dataset.
+the other available chorale datasets.
 
 ## Version history
 
